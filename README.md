@@ -1,7 +1,9 @@
 PSPGame(Gundam_Battle_Universe_JPN_PSP-2CH.iso), Cheat code for Unlock frame-limiting effects upon defeating an enemy.
 
 Game ISO Name:Gundam_Battle_Universe_JPN_PSP-2CH.iso
+
 Version:ULJS00145 v1.03:Japan
+
 CRC:68110E44
 
 
